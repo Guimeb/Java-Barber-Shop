@@ -4,7 +4,7 @@
   </p>
 </div>
 
-Vamos criar um projeto Angular e Java para agendamento de atendimento em uma barbearia, vamos explorar frameworks Angular, persistencia Java e conexões com base de dados.
+Este projeto foi desenvolvido durante o Bootcamp Decola Tech 2025. Vamos criar um projeto Angular e Java para agendamento de atendimento em uma barbearia, vamos explorar frameworks Angular, persistencia Java e conexões com base de dados.
 
 ## 🛠️ Tecnologias Utilizadas
 
